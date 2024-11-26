@@ -1,5 +1,0 @@
-# GNOME RDP Docker
-This is a container that uses debian + gnome. It comes with RDP enabled (this is based on wayland without the use of X)
-
-# Usage
-`TBA`
